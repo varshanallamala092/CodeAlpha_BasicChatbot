@@ -17,5 +17,12 @@ A simple chatbot developed using python.
 # Technologies Used
  python
 
+ #How to Run
+ 1.Open the projectfolder
+ 2.Run the python file(python chatbot.py)
+
+ #Screenshot
+ ![Chatbot Output](screenshot.png)
+
 # Author
 Varsha Nallamala
